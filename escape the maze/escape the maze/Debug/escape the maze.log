@@ -1,0 +1,102 @@
+﻿Build started 9/6/2015 11:56:42 AM.
+     1>Project "C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\escape the maze\escape the maze.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\escape the maze.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\iMain.cpp
+         iMain.cpp
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\igraphics.h(129): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\igraphics.h(181): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(78): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(112): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(113): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(201): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(202): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(209): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(210): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(217): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(218): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(220): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(221): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(222): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(228): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(229): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(230): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(231): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(232): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(233): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(243): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(245): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(246): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(247): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(253): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(254): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(255): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(256): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(257): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(270): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(322): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(333): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(334): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(437): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(649): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\nnawa_000\desktop\cse 1200 (b1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\imain.cpp(922): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\Debug\escape the maze.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\escape the maze.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\Debug\escape the maze.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\Debug\escape the maze.lib" /MACHINE:X86 Debug\iMain.obj
+         ..\Glaux.lib
+         ..\GLUT32.LIB
+         LINK : C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\Debug\escape the maze.exe not found or not built by the last incremental link; performing full link
+         escape the maze.vcxproj -> C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\Debug\escape the maze.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\Debug\escape the maze.exe;#1" /manifest "Debug\escape the maze.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\escape the maze.unsuccessfulbuild".
+         Touching "Debug\escape the maze.lastbuildstate".
+     1>Done Building Project "C:\Users\nnawa_000\Desktop\CSE 1200 (B1)\group 1\14.02.04.067 and 14.02.04.072\escape the maze\escape the maze\escape the maze.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.32
